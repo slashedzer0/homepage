@@ -9,37 +9,36 @@ const bookmarks = [
     ],
   },
   {
-    title: "Media",
+    title: "Play",
     links: [
-      { name: "Youtube", url: "https://youtube.com" },
-      { name: "Netflix", url: "https://netflix.com" },
-      { name: "Crunchyroll", url: "https://crunchyroll.com" },
+      { name: "YouTube", url: "https://youtube.com" },
+      { name: "Twitch", url: "https://www.twitch.tv/" },
+      { name: "SoccerStreams", url: "https://soccerstreams.net" },
       {
-        name: "Amazon Prime",
-        url: "https://www.amazon.com/Amazon-Video",
+        name: "Monkeytype",
+        url: "https://monkeytype.com/",
       },
     ],
   },
   {
-    title: "Reddit",
+    title: "Learn",
     links: [
-      { name: "/r/overwatch", url: "https://reddit.com/r/overwatch" },
+      { name: "DevDocs", url: "https://devdocs.io/" },
       {
-        name: "/r/pcmasterrace",
-        url: "https://reddit.com/r/pcmasterrace",
+        name: "ManKier",
+        url: "https://www.mankier.com/",
       },
-      { name: "/r/me_irl", url: "https://reddit.com/r/me_irl" },
+      { name: "StackOverflow", url: "https://stackoverflow.com/" },
       {
-        name: "/r/battlestations",
-        url: "https://reddit.com/r/battlestations",
+        name: "Vim Cheat Sheet",
+        url: "https://vim.rtorr.com/",
       },
-      { name: "/r/unixporn", url: "https://reddit.com/r/unixporn" },
-      { name: "/r/news", url: "https://reddit.com/r/news" },
     ],
   },
   {
     title: "Social",
     links: [
+      { name: "/r/unixporn", url: "https://reddit.com/r/unixporn" },
       { name: "Twitter", url: "https://twitter.com" },
       { name: "Facebook", url: "https://facebook.com" },
     ],
